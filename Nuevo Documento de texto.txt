@@ -1,0 +1,2 @@
+añadir: Cocina, alacenas, neveras, almuerzo,ir al mercado.
+agragar funcion generar oficios de mercado.
